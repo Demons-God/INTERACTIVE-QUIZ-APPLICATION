@@ -94,3 +94,6 @@ This quiz app is a fun project that mixes interactivity, instant feedback, and s
 
 Happy quizzing! 🎮
 ##
+
+# OUTPUT
+![Image](https://github.com/user-attachments/assets/b553fed9-8422-4841-a795-f8fd52a9c1ce)
