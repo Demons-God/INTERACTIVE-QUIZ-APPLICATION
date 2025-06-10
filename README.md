@@ -12,7 +12,9 @@ COMPANY: CODTECH IT SOLUTIONS
 
 *MENTOR: NEELA SANTOSH
 
-##This is an interactive quiz app I made using plain old HTML, CSS, and JavaScript. Super simple, no frameworks needed. It’s totally browser-based—just open it, answer cool questions, get instant feedback, and see your score at the end. You even get to register your name and email before starting, so it feels a bit more personal.
+##DESCRPTION
+
+This is an interactive quiz app I made using plain old HTML, CSS, and JavaScript. Super simple, no frameworks needed. It’s totally browser-based—just open it, answer cool questions, get instant feedback, and see your score at the end. You even get to register your name and email before starting, so it feels a bit more personal.
 
 Think of it as a mini trivia game that's easy to understand and super fun to play.
 
